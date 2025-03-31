@@ -9,5 +9,5 @@ if media>=7.0:
 elif(media >=4.0):
     print(f"Aluno em recuperação. Nota: {media:.2f}")
 else:
-    print(f"Aluno reprovado. Nota:{media:.2f}")
+    print(f"Aluno reprovado. Nota: {media:.2f}")
 
