@@ -22,6 +22,6 @@ while tipoCombustivel != "e" and tipoCombustivel != "g":
     else:
         print("Opção inválida, insira novamente")
 
-print(f"O valor total da sua compra é: {total:.2f}\nTipo: {combustivelAtual}\nQuantidade: {litros} litros")
+print(f"O valor total da sua compra é: R$ {total:.2f}\nTipo: {combustivelAtual}\nQuantidade: {litros} litros")
 
 
