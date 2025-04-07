@@ -4,8 +4,8 @@
 # print(nome)
 # print(nome)
 
-for i in range(0,10,1):
-    i+=1
+for i in range(1,11,1):
+
     print(i)
 
 # num = int(input("Digite o número que deseja saber a tabuada: "))
