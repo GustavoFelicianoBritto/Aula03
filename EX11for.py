@@ -6,7 +6,7 @@
 
 for i in range(1,11,1):
 
-    print(i)
+    print(i,end=" ")
 
 # num = int(input("Digite o número que deseja saber a tabuada: "))
 # #for (int x = 0; x<10;x++)
