@@ -1,5 +1,5 @@
-horas=[3,17]
-minutos=[23,34]
+horas=[21,21]
+minutos=[30,30]
 
 for i in range (len(horas)):
     if horas[i] > 12:
@@ -8,10 +8,9 @@ for i in range (len(horas)):
 totalHoras= horas[0] + horas[1]
 totalMinutos = minutos[0] + minutos[1]
 
-if totalMinutos > 59:
+if totalMinutos >= 60:
     totalHoras+=1
     totalMinutos -=60
-
 if totalHoras>12:
     totalHoras-=12
 

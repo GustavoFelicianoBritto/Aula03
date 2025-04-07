@@ -1,7 +1,7 @@
 #soma > entrada no padrão de horas > padrão 12horas por dia
 #declarei variaveis temporaveis
-hora=[21,00]
-hora2=[21,00]
+hora=[15,45]
+hora2=[22,20]
 
 horasaida=[0,0]
 resto=0
