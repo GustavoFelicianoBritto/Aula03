@@ -1,5 +1,5 @@
-horas=[14,5]
-minutos=[57,44]
+horas=[3,17]
+minutos=[23,34]
 
 for i in range (len(horas)):
     if horas[i] > 12:
